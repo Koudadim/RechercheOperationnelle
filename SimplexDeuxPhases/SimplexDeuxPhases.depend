@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1640213762 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\freetabentier.c
+	<stdio.h>
+
+1640213823 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\freetabreel.c
+	<stdio.h>
+
+1640215581 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\indicemaxtabreel.c
+	<stdio.h>
+
+1640730392 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\freematreelle.c
+	<stdio.h>
+
+1640392352 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\indiceminpositiftabreel.c
+	<stdio.h>
+
+1640730461 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\baseinitial.c
+	<stdio.h>
+
+1640730534 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\indiceminnegatiftabreel.c
+	<stdio.h>
+
+1640212510 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\printftabentier.c
+	<stdio.h>
+
+1640731053 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640212807 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\printftabreel.c
+	<stdio.h>
+
+1640211861 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\scanfmatreellle.c
+	<stdio.h>
+	<stdlib.h>
+
+1640212079 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\scanftabentier.c
+	<stdio.h>
+
+1640211970 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\scanftabreel.c
+	<stdio.h>
+
+1640730780 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\matreelle.c
+	<stdio.h>
+	<stdlib.h>
+
+1640731488 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\printfmatreelle.c
+	<stdio.h>
+
+1640209997 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\tabentier.c
+	<stdio.h>
+
+1640294652 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\tabindvarart.c
+	<stdio.h>
+
+1640383040 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\tabindvarecar.c
+	<stdio.h>
+
+1640980359 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\simplexmax.c
+	<stdio.h>
+	<stdlib.h>
+
+1640210035 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\tabreel.c
+	<stdio.h>
+
+1584205420 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\simplexdeuxphases\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640980660 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\tabminpa.c
+	<stdio.h>
+
+1640981151 source:c:\users\asus\desktop\ifa 1\recherche op+®rationnelle\simplexedeuxphases\simplexmin.c
+	<stdio.h>
+
